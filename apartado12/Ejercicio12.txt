@@ -1,0 +1,3 @@
+Una expresión lambda en programación, específicamente en Java, es una forma concisa de representar una instancia de una interfaz funcional usando una expresión. 
+Las expresiones lambda fueron introducidas en Java 8 para facilitar el desarrollo de programas, especialmente aquellos que utilizan técnicas de programación funcional. 
+Una interfaz funcional es aquella que contiene exactamente un método abstracto
